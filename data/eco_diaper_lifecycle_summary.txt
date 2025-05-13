@@ -1,0 +1,9 @@
+Eco-Diaper Lifecycle Summary
+
+This document summarizes key data from a lifecycle assessment (LCA) of a biodegradable diaper prototype developed in 2023. Key findings include:
+
+- 34% lower carbon emissions compared to standard disposable diapers
+- Biodegradable core degrades 90% within 45 days in industrial composting conditions
+- Packaging is made from 100% recycled paper, printed with soy-based ink
+- Composting must occur in facilities with controlled humidity and microbial activity
+- Not suitable for backyard composting
