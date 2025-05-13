@@ -7,6 +7,13 @@ from llama_index.llms import OpenAI
 # Set up OpenAI API
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
+# Simple password gate
+st.sidebar.title("🔒 Access")
+password = st.sidebar.text_input("Enter password", type="password")
+if password != "nomads2025":
+    st.warning("Please enter a valid password to continue.")
+    st.stop()
+
 # Load documents and create index (assumes there's a "data" folder with PDFs)
 @st.cache_resource
 def load_index():
