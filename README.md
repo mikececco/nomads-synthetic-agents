@@ -1,1 +1,1 @@
-# nomads-synthetic-agents
+Nomads synthetic stakeholder agents with RAG and password protection.
