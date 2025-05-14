@@ -1,4 +1,3 @@
-
 import streamlit as st
 import openai
 from llama_index.core import SimpleDirectoryReader, VectorStoreIndex, ServiceContext
